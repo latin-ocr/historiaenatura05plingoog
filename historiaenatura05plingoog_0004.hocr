@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiaenatura05plingoog_0004.png"; bbox 0 0 2033 3044; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1231 6 2022 201">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1231 6 2022 201">
+     <span class='ocr_line' id='line_1_1' title="bbox 1231 6 2022 201; baseline -0.004 -19"><span class='ocrx_word' id='word_1_1' title='bbox 1231 6 1561 182; x_wconf 56' lang='grc' dir='ltr'>«33η</span> <span class='ocrx_word' id='word_1_2' title='bbox 1612 42 1742 167; x_wconf 55' lang='lat'>⁶³5</span> <span class='ocrx_word' id='word_1_3' title='bbox 1798 44 1925 201; x_wconf 35' lang='lat'>7!</span> <span class='ocrx_word' id='word_1_4' title='bbox 2020 108 2022 115; x_wconf 91' lang='lat'>·</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
